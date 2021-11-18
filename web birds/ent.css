@@ -1,0 +1,14 @@
+body{background-color:#211112;}
+h1{color: #CB6CE6;
+text-align: center;}
+h2{color:rgb(121, 252, 252);
+text-align-last: center;}
+
+form {
+    margin: 0 auto;
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+    color:#CB6CE6;
+}
